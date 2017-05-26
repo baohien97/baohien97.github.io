@@ -1,0 +1,14 @@
+"How to launch your website"
+1. VPS (in the cloud):
+- from a company called transip: choose standard vps from virtual server with a priced package; then choose archlinux/ubuntu/etc.
+- comes with a public ip address (e.g host www.address.com)
+- port number
+2. Domain name:
+- netlinux.nl - DNS
+- CNAME
+3. /etc:
+- directory with configuration
+- nginx: web server (sudo apt install nginx)
+- 1 VPS, 1 server can take care of multiple websites (those with cnames)
+
+
