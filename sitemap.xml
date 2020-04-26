@@ -3,13 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://baohien97.github.io/blog/</loc>
-    <priority>0</priority>
+    <loc>https://baohien97.github.io/</loc>
+    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://baohien97.github.io/images/</loc>
-    <priority>0</priority>
+    <loc>https://baohien97.github.io/print-version/</loc>
+    <lastmod>2017-07-29T22:48:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://baohien97.github.io/patterns/pattern/</loc>
   </url>
   
   <url>
@@ -17,7 +21,7 @@
   </url>
   
   <url>
-    <loc>https://baohien97.github.io/</loc>
+    <loc>https://baohien97.github.io/patterns/</loc>
   </url>
   
   <url>
