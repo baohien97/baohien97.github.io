@@ -3,7 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://baohien97.github.io/blog/</loc>
+    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://baohien97.github.io/</loc>
+    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://baohien97.github.io/tags/pancakes/</loc>
+    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://baohien97.github.io/tags/</loc>
+    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://baohien97.github.io/tags/vegan/</loc>
+    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://baohien97.github.io/blog/vegan-easy-quiche/</loc>
+    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://baohien97.github.io/blog/vegan-oat-pancakes/</loc>
     <lastmod>2020-04-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -17,15 +47,20 @@
   </url>
   
   <url>
+    <loc>https://baohien97.github.io/photos/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://baohien97.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://baohien97.github.io/patterns/</loc>
+    <loc>https://baohien97.github.io/patterns/about/</loc>
   </url>
   
   <url>
-    <loc>https://baohien97.github.io/tags/</loc>
+    <loc>https://baohien97.github.io/patterns/</loc>
   </url>
   
 </urlset>
