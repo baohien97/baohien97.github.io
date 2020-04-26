@@ -3,22 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://baohien97.github.io/blog/banana-bread/</loc>
+    <loc>https://baohien97.github.io/recipes/banana-bread/</loc>
     <lastmod>2020-04-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://baohien97.github.io/blog/</loc>
+    <loc>https://baohien97.github.io/recipes/dalgona-cafe-1/</loc>
     <lastmod>2020-04-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://baohien97.github.io/blog/dalgona-cafe-1/</loc>
-    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://baohien97.github.io/blog/vegan-easy-quiche/</loc>
+    <loc>https://baohien97.github.io/recipes/vegan-easy-quiche/</loc>
     <lastmod>2020-04-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,7 +23,17 @@
   </url>
   
   <url>
+    <loc>https://baohien97.github.io/recipes/vegan-oat-pancakes/</loc>
+    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://baohien97.github.io/tags/pancakes/</loc>
+    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://baohien97.github.io/recipes/</loc>
     <lastmod>2020-04-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -39,11 +44,6 @@
   
   <url>
     <loc>https://baohien97.github.io/tags/vegan/</loc>
-    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://baohien97.github.io/blog/vegan-oat-pancakes/</loc>
     <lastmod>2020-04-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -62,11 +62,15 @@
   </url>
   
   <url>
+    <loc>https://baohien97.github.io/blog/</loc>
+  </url>
+  
+  <url>
     <loc>https://baohien97.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://baohien97.github.io/patterns/about/</loc>
+    <loc>https://baohien97.github.io/about/</loc>
   </url>
   
   <url>
