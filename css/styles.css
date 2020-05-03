@@ -8,12 +8,13 @@
 *,
 *::before,
 *::after {
+    
     font-family: inherit;
     background-color: inherit;
     color: inherit;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    box-sizing: border-box;   
 }
 html {
     font-size: calc(1em + 0.33vw);
@@ -403,7 +404,7 @@ caption {
 }
 
 /* After */
-.pattern [aria-current] {
+.pattern [aria-current]{
   background-color: #111;
   clip-path: polygon(0% 0%, 90% 0%, 100% 50%, 90% 100%, 0% 100%);
   color: #fefefe;
@@ -938,7 +939,7 @@ h1 svg {
     .pattern a {
         padding: 1rem;
     }
-    .pattern [aria-current] {
+    .pattern [aria-current]{
         clip-path: none;
         padding: 1rem;
     }
