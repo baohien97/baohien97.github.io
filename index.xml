@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Photos</title>
+      <link>https://baohien97.github.io/photos/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://baohien97.github.io/photos/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
       <title>Quesadillas - 3 ingredients (Vegan)</title>
       <link>https://baohien97.github.io/recipes/quesadillas/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
@@ -72,15 +81,6 @@
       
       <guid>https://baohien97.github.io/patterns/pattern/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Cho and Ho&#39;s</title>
-      <link>https://baohien97.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://baohien97.github.io/about/</guid>
-      <description>Hello</description>
     </item>
     
   </channel>
