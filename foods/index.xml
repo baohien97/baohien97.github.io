@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hien&#39;s Page</title>
-    <link>https://baohien97.github.io/</link>
-    <description>Recent content on Hien&#39;s Page</description>
+    <title>Foods on Hien&#39;s Page</title>
+    <link>https://baohien97.github.io/foods/</link>
+    <description>Recent content in Foods on Hien&#39;s Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://baohien97.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://baohien97.github.io/foods/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Photos</title>
-      <link>https://baohien97.github.io/photos/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://baohien97.github.io/photos/</guid>
-      <description>   </description>
-    </item>
     
     <item>
       <title>Quesadillas - 3 ingredients (Vegan)</title>
@@ -63,24 +54,6 @@
       
       <guid>https://baohien97.github.io/foods/vegan-easy-quiche/</guid>
       <description>  Easy Vegan Quiche    Easy Vegan Quiche   </description>
-    </item>
-    
-    <item>
-      <title>Print version</title>
-      <link>https://baohien97.github.io/print-version/</link>
-      <pubDate>Sat, 29 Jul 2017 22:48:43 +0100</pubDate>
-      
-      <guid>https://baohien97.github.io/print-version/</guid>
-      <description>You don&amp;rsquo;t want to edit this file :-)</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://baohien97.github.io/patterns/pattern/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://baohien97.github.io/patterns/pattern/</guid>
-      <description></description>
     </item>
     
   </channel>
