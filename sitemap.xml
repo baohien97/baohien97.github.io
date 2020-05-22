@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://baohien97.github.io/foods/banana-split/</loc>
-    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+    <loc>https://baohien97.github.io/foods/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://baohien97.github.io/foods/</loc>
+    <loc>https://baohien97.github.io/foods/nachos/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://baohien97.github.io/foods/choco-balls/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://baohien97.github.io/foods/banana-split/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
   </url>
   
