@@ -5,10 +5,6 @@
     <link>https://baohien97.github.io/blog/</link>
     <description>Recent content in Blog on Hien&#39;s Page</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://baohien97.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://baohien97.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
