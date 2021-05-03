@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://baohien97.github.io/foods/banana-icecream/</loc>
-    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+    <loc>https://baohien97.github.io/foods/homemade-hummus/</loc>
+    <lastmod>2021-05-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://baohien97.github.io/foods/</loc>
+    <lastmod>2021-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://baohien97.github.io/foods/banana-icecream/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url>
   
